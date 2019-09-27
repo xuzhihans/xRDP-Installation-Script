@@ -18,4 +18,4 @@ Used to ease the installation of xRDP packages on Ubuntu machines.
 
 最后，最权威的解释和说明还是参见[C-NERGY.BE](http://www.c-nergy.be/products.html)
 
-# 再次感谢 :heartpulse: [C-NERGY.BE](http://www.c-nergy.be/index.html) 为我们提供了一个快速、简便、实用的工具！！！
+# 再次感谢 :heartpulse: [C-NERGY.BE](http://www.c-nergy.be/index.html) :heartpulse: 为我们提供了一个快速、简便、实用的工具！！！
