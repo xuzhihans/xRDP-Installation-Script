@@ -1,8 +1,8 @@
 # xRDP-Installation-Script
 Used to ease the installation of xRDP packages on Ubuntu machines.
 
-### 感谢[C-NERGY.BE](http://www.c-nergy.be/index.html)
-这是由**C-NERGY.BE**开发的一个工具，目的在于在Ubuntu上自动化部署安装xRDP，用于通过RDP协议远程访问Ubuntu主机。
+### 感谢 [C-NERGY.BE](http://www.c-nergy.be/index.html)
+这是由 **C-NERGY.BE** 开发的一个工具，目的在于在Ubuntu上自动化部署安装xRDP，用于通过RDP协议远程访问Ubuntu主机。
 
 该工具主要分为两类：
 - **Standard Installation Script**
@@ -18,4 +18,4 @@ Used to ease the installation of xRDP packages on Ubuntu machines.
 
 最后，最权威的解释和说明还是参见[C-NERGY.BE](http://www.c-nergy.be/products.html)
 
-# 再次感谢[C-NERGY.BE](http://www.c-nergy.be/index.html)为我们提供了一个快速、简便、实用的工具！！！
+# 再次感谢 [C-NERGY.BE](http://www.c-nergy.be/index.html) 为我们提供了一个快速、简便、实用的工具！！！
